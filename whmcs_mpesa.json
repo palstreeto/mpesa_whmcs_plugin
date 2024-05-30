@@ -1,0 +1,26 @@
+{
+    "name": "Lipa na Mpesa for WHMCS",
+    "description": "Lipa Na Mpesa for the WHMCS Billing Automation Platform",
+    "keywords": [
+        "whmcs",
+        "web host automation platform",
+        "merchant Mpesa mobile money gateway module",
+        "gateway module",
+        "3d secure"
+    ],
+    "homepage": "http://www.payment-plugins.com/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sir Brian Mbiki",
+            "email": "info@payment-plugins.com",
+            "homepage": "https://www.payment-plugins.com/",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "info@payment-plugins.com",
+        "forum": "https://www.payment-plugins.com",
+        "wiki": "https://www.payment-plugins.com/page/whmcs-mpesa-api-integration-and-payment-module-daraja-from-safaricom-kenya"
+    }
+}
